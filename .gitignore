@@ -9,3 +9,12 @@ node_modules
 .settings
 selenium-client-jars/
 test/artifacts
+salesforce.schema
+config/
+debug/
+Referenced Packages
+.vscode
+import
+output
+scripts
+assets/server.key
